@@ -8,7 +8,8 @@ CSS – estilização visual (pré-existente)
 
 JavaScript – lógica do sorteio e interações com o DOM
 
-⚙️ Funcionalidades
+⚙️ Funcionalidades:
+
 ✅ sortear()
 Recupera os valores dos inputs:
 
@@ -63,6 +64,7 @@ sorteador-numeros/
 ├── index.html
 ├── style.css
 └── script.js
+
 🎯 Objetivo do Projeto
 Desenvolver a lógica em JavaScript de um sorteador funcional, integrando com HTML/CSS já prontos, utilizando:
 

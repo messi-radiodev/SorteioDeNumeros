@@ -61,9 +61,10 @@ pgsql
 Copiar
 Editar
 sorteador-numeros/
+├── /img
 ├── index.html
 ├── style.css
-└── script.js
+└── app.js
 
 🎯 Objetivo do Projeto
 Desenvolver a lógica em JavaScript de um sorteador funcional, integrando com HTML/CSS já prontos, utilizando:

@@ -25,11 +25,8 @@ Garante que não haja números repetidos
 
 ✅ obterNumeroAleatorio(min, max)
 Retorna um número aleatório dentro do intervalo desejado:
-
-javascript
-Copiar
-Editar
 return Math.floor(Math.random() * (max - min + 1)) + min;
+
 ✅ Controle de repetição
 Uso de while para evitar que o mesmo número seja sorteado mais de uma vez
 
@@ -57,9 +54,6 @@ Clique em Sortear
 Clique em Reiniciar para fazer um novo sorteio
 
 📁 Estrutura de Arquivos
-pgsql
-Copiar
-Editar
 sorteador-numeros/
 ├── /img
 ├── index.html

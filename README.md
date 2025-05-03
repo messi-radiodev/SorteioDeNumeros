@@ -80,3 +80,4 @@ Boas práticas com funções
 🚀 Status
 ✅ Projeto concluído e funcionando corretamente
 
+Video demonstrando funcionando: https://www.loom.com/share/4baa1a39bbb64b60b58af7252dcc93fd
